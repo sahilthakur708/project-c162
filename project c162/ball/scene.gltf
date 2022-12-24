@@ -1,0 +1,533 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.07999998331069946,
+        0.07927434146404266,
+        0.07999999076128006
+      ],
+      "min": [
+        -0.07999999076128006,
+        -0.08072565495967865,
+        -0.07999999821186066
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 786384,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.999883234500885,
+        1.0,
+        0.9998000264167786,
+        1.0
+      ],
+      "min": [
+        -0.9998482465744019,
+        -0.9999908208847046,
+        -0.9999995827674866,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.998948872089386,
+        0.9616965055465698
+      ],
+      "min": [
+        0.011967329308390617,
+        0.0039858752861618996
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 524256,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.998948872089386,
+        0.9616965055465698
+      ],
+      "min": [
+        0.011967329308390617,
+        0.0039858752861618996
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1048512,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.998948872089386,
+        0.9616965055465698
+      ],
+      "min": [
+        0.011967329308390617,
+        0.0039858752861618996
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1572768,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.998948872089386,
+        0.9616965055465698
+      ],
+      "min": [
+        0.011967329308390617,
+        0.0039858752861618996
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 389136,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1572768,
+      "componentType": 5126,
+      "count": 2876,
+      "max": [
+        0.07978025823831558,
+        0.07902190089225769,
+        0.0761619284749031
+      ],
+      "min": [
+        -0.06718114018440247,
+        -0.07998183369636536,
+        -0.0674281120300293
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1607280,
+      "componentType": 5126,
+      "count": 2876,
+      "max": [
+        0.9972634315490723,
+        0.9930922985076904,
+        0.952970564365387
+      ],
+      "min": [
+        -0.838512122631073,
+        -0.9906352162361145,
+        -0.8418898582458496
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 1048512,
+      "componentType": 5126,
+      "count": 2876,
+      "max": [
+        0.9584690928459167,
+        0.9999946355819702,
+        0.9693289995193481,
+        1.0
+      ],
+      "min": [
+        -0.8893542885780334,
+        0.1169569343328476,
+        -0.9622434377670288,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2097024,
+      "componentType": 5126,
+      "count": 2876,
+      "max": [
+        0.8706256747245789,
+        0.9466558694839478
+      ],
+      "min": [
+        0.04464643821120262,
+        0.06841607391834259
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2120032,
+      "componentType": 5126,
+      "count": 2876,
+      "max": [
+        0.8706256747245789,
+        0.9466558694839478
+      ],
+      "min": [
+        0.04464643821120262,
+        0.06841607391834259
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2143040,
+      "componentType": 5126,
+      "count": 2876,
+      "max": [
+        0.8706256747245789,
+        0.9466558694839478
+      ],
+      "min": [
+        0.04464643821120262,
+        0.06841607391834259
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2166048,
+      "componentType": 5126,
+      "count": 2876,
+      "max": [
+        0.8706256747245789,
+        0.9466558694839478
+      ],
+      "min": [
+        0.04464643821120262,
+        0.06841607391834259
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1556544,
+      "componentType": 5125,
+      "count": 13872,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 300,
+      "max": [
+        10.0
+      ],
+      "min": [
+        0.03333333507180214
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 300,
+      "max": [
+        0.0,
+        0.0,
+        0.9999444484710693,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0,
+        -1.0,
+        1.1924880638503055e-08
+      ],
+      "type": "VEC4"
+    }
+  ],
+  "animations": [
+    {
+      "channels": [
+        {
+          "sampler": 0,
+          "target": {
+            "node": 3,
+            "path": "rotation"
+          }
+        }
+      ],
+      "name": "Animation",
+      "samplers": [
+        {
+          "input": 16,
+          "interpolation": "LINEAR",
+          "output": 17
+        }
+      ]
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Tomations (https://sketchfab.com/Tomations)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/bowling-ball-880544b60cbd45bcba242394e691f9a1",
+      "title": "Bowling Ball"
+    },
+    "generator": "Sketchfab-14.33.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1612032,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2189056,
+      "byteOffset": 1612032,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1641792,
+      "byteOffset": 3801088,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1094528,
+      "byteOffset": 5442880,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1200,
+      "byteOffset": 6537408,
+      "name": "floatBufferViews"
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4800,
+      "byteOffset": 6538608,
+      "byteStride": 16,
+      "name": "floatBufferViews"
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 6543408,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_clearcoat"
+  ],
+  "images": [
+    {
+      "uri": "textures/Bowling_Ball_baseColor.png"
+    },
+    {
+      "uri": "textures/Bowling_Ball_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Bowling_Ball_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_clearcoat": {
+          "clearcoatFactor": 0.27834731661018597,
+          "clearcoatRoughnessFactor": 0.10799267475040003
+        }
+      },
+      "name": "Bowling_Ball",
+      "normalTexture": {
+        "index": 2,
+        "texCoord": 2
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1,
+          "texCoord": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4,
+            "TEXCOORD_2": 5,
+            "TEXCOORD_3": 6
+          },
+          "indices": 7,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TANGENT": 10,
+            "TEXCOORD_0": 11,
+            "TEXCOORD_1": 12,
+            "TEXCOORD_2": 13,
+            "TEXCOORD_3": 14
+          },
+          "indices": 15,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "root"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "GLTF_SceneRootNode"
+    },
+    {
+      "children": [
+        4,
+        5
+      ],
+      "name": "Bowling Ball_3"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_4"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_5"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}
